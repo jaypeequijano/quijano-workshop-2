@@ -19,7 +19,7 @@
 				</tr>
 				<tr>
 					<td><label class="iconName">Router: 1941</label></td>
-					<td><img src="../img/img2.jpg" height="50px" width="400px"></td>
+					<td><img src="img2.jpg" height="50px" width="400px"></td>
 					<td><p>The Cisco 1941 Integrated Services Router (ISR) provides 2 integrated 10/100/1000 Ethernet ports, 2 WAN Interface Card (WIC) slots and 1 Internal Services Module slot.</p></td>
 				</tr>
 				<tr>
