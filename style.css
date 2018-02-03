@@ -1,0 +1,60 @@
+.headers{
+	position: absolute;
+	top: 80px;
+	left: 100px;
+	font-style: arial;
+	font-size: 100px;
+	color: #009fff;
+}
+.linker{
+	position: relative;
+	top: 250px;
+	left: 120px;
+	color: black;
+	padding: 8px 20px;
+	font-size: 50px;
+	float: left;
+	text-align: center;
+	background-color: rgba(101, 201, 241, 1);
+	margin-left: 10px;
+	text-decoration: none;
+
+}
+.linker:hover{
+	background-color: rgba(123, 123, 123, 0.10);
+}
+.secondHeader{
+	position: relative;
+	top: 180px;
+	left: 500px;
+	font-style: Calibri;
+	font-size: 60px;
+	color:rgba(101, 201, 241, 1);
+}
+.iconTable{
+	position: relative;
+	top: 200px;
+	left: 0px;
+	border: 3px;
+}
+#tableHeader{
+	position: relative;
+	left: 15px;
+	font-style: Bell MT;
+	font-size: 25px;
+	font: bold;
+}
+#tableHeader2{
+	position: relative;
+	left: 95px;
+	font-style: Bell MT;
+	font-size: 25px;
+	font: bold;
+}
+#tableHeader3{
+	position: relative;
+	left: 100px;
+	font-style: Bell MT;
+	font-size: 25px;
+	font: bold;
+}
